@@ -1,0 +1,572 @@
+html{
+  width: 100%;
+  background-image: url(https://i.ibb.co/2YkNjG7/fondo-circulosgrande.png);
+  background-size: 100%;
+  background-repeat: repeat-y;
+  display: block;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 250vw;
+}
+
+
+.encabezado{
+  width: 100%;
+  height: 49.5vw;
+  background-color: black;
+}
+.navegador{
+  margin-top: -8vw;
+  margin-left: 16vw;
+  width: 100%;
+  height: 5vw;
+  color: white;
+}
+.navegadorsm{
+  padding: 4vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+}
+
+.navegadorp{
+  padding: 1vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+}
+
+.navegadorS{
+  margin-left: 12VW;
+  padding: 1vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+}
+
+.navegadorC{
+  padding: 4vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+}
+
+.milogoportada{
+  margin-top: auto;
+  margin-left: 42vw;
+  width: 15vw;
+}
+
+.imgportada{
+  margin-top: 8vw;
+}
+
+.uxdesigner{
+  margin-left: 11vw;
+  margin-top: -12vw;
+  width: 75vw;
+  height: 36vw;
+}
+
+.miicono{
+  width:45vw;;
+  margin-top: -22vw;
+  margin-left: 24vw;
+}
+
+.triangulo{
+  margin-top: -63.2vw;
+  width: 97.5vw;
+}
+
+
+.sobremi{
+  margin-top: 27vw;
+  width: 100%;
+  height: 22vw;
+  background-color: white;
+}
+ .mi{
+   margin-left: 25vw;
+   margin-top: 0vw;
+   width: 65vw;
+ }
+
+.trianguloreves{
+  margin-top: -85vw;
+  width: 100%;
+}
+
+.misproyectos{
+  margin-top: -1vw;
+  padding-top: 5vw;
+  font-family: "impact" ;
+  font-size: 4vw;
+  color: black;
+  text-align: center;
+}
+
+#proyectos{
+  margin-top: -1vw;
+}
+#button-banqui{
+  margin-left: 3.5vw;
+  width: 30vw;}
+
+  #button-banqui: hover{
+    width: 35vw;
+
+}
+
+#button-betabel{
+  width: 30vw;
+}
+#button-midoc{
+  width: 30vw;
+}
+
+.triangulop{
+  margin-top: -59vw;
+  width: 100%;
+}
+
+.habilidades{
+  margin-top: -10vw;
+  width: 100%;
+  height:35vw;
+  background-color: white;
+}
+#habilidades{
+  width: 100%;
+  margin-top: -10vw;
+}
+
+.soft{
+  margin-top: 6vw;
+}
+.skills{
+  margin-top: -10vw;
+  font-family: "impact" ;
+  font-size: 4vw;
+  color: black;
+  text-align: center;
+}
+.creatividad{
+  margin-left: 4vw;
+  width: 30vw;
+}
+
+.pensamiento{
+  width: 30vw;
+}
+
+.comunicacion{
+  width: 30vw;
+}
+
+.crea{
+  margin-top: -12vw;
+  margin-left: -60vw;
+  font-family: "arial narrow" ;
+  font-size: 1.6vw;
+  color: black;
+  text-align: center;
+}
+
+.pensa{
+  margin-top: -9vw;
+  margin-left: 1vw;
+  font-family: "arial narrow" ;
+  font-size: 1.6vw;
+  color: black;
+  text-align: center;
+}
+
+.comu{
+  margin-top: -11vw;
+  margin-left: 62vw;
+  font-family: "arial narrow" ;
+  font-size: 1.6vw;
+  color: black;
+  text-align: center;
+}
+.conoci{
+  margin-top: -10vw;
+}
+.trianguloblanco{
+  width:100vw;
+  margin-top: -11.5vw;
+}
+
+.micono{
+  margin-top: -50vw;
+  width: 40vw;
+}
+
+.conocimientos{
+  margin-top: 8vw;
+  font-family: "impact" ;
+  font-size: 4vw;
+  color: black;
+  text-align: center;
+}
+.triacono{
+  width: 105vw;
+  height: 45vw;
+  margin-top: -22vw;
+}
+
+.dialogo{
+  margin-top: -53.5vw;
+  margin-left: 5vw;
+  font-family: "arial narrow" ;
+  font-size: 1.6vw;
+  color: black;
+  text-align: center;
+}
+.trianverti{
+  width: 105vw;
+  height: 45vw;
+  margin-top: -43.2vw;
+}
+.trianconta{
+  margin-top: 30vw;
+  margin-left: -14vw;
+  width: 120vw;
+}
+.contacto{
+  background-color: white;
+  width: 100%;
+  height: 25vw;
+  margin-top: -5vw;
+}
+.titcontacto{
+  margin-top: -70vw;
+  margin-left: 38vw;
+  font-family: "impact" ;
+  font-size: 4vw;
+  color: black;
+  text-align: center;
+}
+.correo{
+  margin-top: -15vw;
+  padding-left: 10vw;
+  width: 20vw;
+}
+.whats{
+  padding-left: 22.5vw;
+  width: 20vw;
+}
+.cel{
+  margin-top: -4vw;
+  margin-left: 26vw;
+  font-family: "arial narrow" ;
+  font-size: 2vw;
+  color: black;
+
+}
+.mail{
+  margin-top: -4.5vw;
+  margin-left: 54vw;
+  font-family: "arial narrow" ;
+  font-size: 2vw;
+  color: black;
+
+}
+.trianfin{
+  width: 104.5vw;
+  margin-top: -30vw;
+}
+.fin{
+  margin-top: -30vw;
+}
+.triangulorevesfin{
+  width: 99vw;
+  margin-top: -100vw;
+}
+
+
+
+.triangulonavbanqui{
+  width: 100vw;
+  height: 65vw;
+  margin-top: -40vw;
+}
+
+.milogoportadaban{
+  width: 25vw;
+  margin-top: -30vw;
+  margin-left: -13vw;
+}
+.nav-banqui{
+  margin-top: -16vw;
+  margin-left: 8vw;
+}
+
+.inicio-banqui{
+  padding-right: 6vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+}
+.inicio-beqtabel{
+  padding-right: 7vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+
+}
+.inicio-midoc{
+  padding-right: 2vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+}
+
+
+.pantallas-banqui{
+  display: block;
+  margin-top: -10vw;
+  margin-left: 15vw;
+  margin-right: auto;
+  margin-bottom: 4vw;
+  width: 50vw;
+  height: 38vw;
+  background-image: url(https://i.ibb.co/yYrypKn/izq-slide.png);
+  background-size:25vw;
+  background-repeat: no-repeat;
+
+
+  animation: movimiento 15s infinite linear alternate;
+}
+
+@keyframes movimiento {
+  from{
+    background-position: top;
+
+  }to{
+    background-position: bottom;
+  }
+
+}
+
+.pantallas-banqui-der{
+  display: block;
+  margin-top: -48vw;
+  margin-left: 35vw;
+  margin-right: auto;
+  margin-bottom: 4vw;
+  width: 50vw;
+  height: 38vw;
+  background-image: url(https://i.ibb.co/5cy7GFt/der-slide.png);
+  background-size:22vw;
+  background-repeat: no-repeat;
+
+
+  animation: movimientos 15s infinite linear alternate;
+}
+
+@keyframes movimientos {
+  from{
+    background-position: bottom;
+
+  }to{
+    background-position: top;
+  }
+
+}
+
+.triacono-ban1{
+  width: 108VW;
+  height: 35vw;
+  margin-top: 20vw;
+  margin-left: -18vw;
+}
+.banqui-p{
+  margin-top: -40vw;
+  margin-left: 24vw;
+  font-family: "impact" ;
+  font-size: 6vw;
+  color: black;
+}
+
+.descripcion{
+  width: 80vw;
+  height: 270vw;;
+  margin-top: 14vw;
+  margin-left: 9vw;
+  background-color: white;
+}
+
+.contexto{
+  width: 80vw;
+  align: center;
+}
+.logo-banqui{
+  width: 28vw;
+  margin-top: 4vw;
+  margin-left: 2vw;
+}
+.fintech{
+  width: 50vw;
+  margin-top: -30vw;
+  margin-left: 50vw;
+  float: right;
+  font-family: "arial" ;
+  font-size: 1.5vw;
+}
+.reto{
+  margin-top: -20vw;
+  margin-left: 50vw;
+  font-family: "impact" ;
+  font-size: 3vw;
+  color: black;
+}
+.retos{
+  width: 50vw;
+  margin-top: -15vw;
+  margin-left: 50vw;
+  float: right;
+  font-family: "arial" ;
+  font-size: 1.5vw;
+}
+.conobanqui{
+  margin-top: -3vw;
+  margin-left: 28vw;
+  font-family: "impact" ;
+  font-size: 3vw;
+  color: black;
+}
+.objetivosbanqui{
+  margin-top: 2vw;
+  margin-left: 10vw;
+  font-family: "arial" ;
+  font-size: 1.5vw;
+
+}
+.oportunidadesbanqui{
+  padding-right: 7vw;
+  margin-top: -10vw;
+  margin-left: -25vw;
+  float: right;
+  font-family: "arial" ;
+  font-size: 1.5vw;
+}
+.trianguloreto{
+  margin-top: -11vw;
+  width: 80vw;
+  height: 25vw;
+}
+.trianguloretofin{
+ margin-top: -12vw;
+  width: 80vw;
+  height: 20vw;
+}
+.investigacionb{
+  margin-top: -2vw;
+  margin-left: 21vw;
+  font-family: "impact" ;
+  font-size: 3vw;
+  color: black;
+}
+.entrevistasbanqui{
+  margin-left: 9vw;
+  font-family: "arial" ;
+  font-size: 1.5vw;
+}
+.problemasdeusabilidad{
+  margin-left: 9vw;
+  font-family: "arial" ;
+  font-size: 1.5vw;
+}
+
+.descargas{
+  margin-left: 9vw;
+  font-family: "arial" ;
+  font-size: 1.5vw;
+}
+.trides{
+  margin-top: 1vw;
+   width: 85.7vw;
+   height: 10vw;
+}
+.personabanqui{
+  margin-top: -2vw;
+  margin-left: 30vw;
+  font-family: "impact" ;
+  font-size: 3vw;
+  color: black;
+}
+.ubanqui{
+  width: 50vw;;
+  margin-left: 15vw;
+}
+
+.descripuserb{
+  margin-left: 4vw;
+  font-family: "arial" ;
+  font-size: 1.5vw;
+}
+.trianguloub{
+  margin-top: -7vw;
+  width: 80vw;
+  height: 20vw;
+}
+
+.solubanqui{
+  margin-left: 34vw;
+  font-family: "impact" ;
+  font-size: 3vw;
+  color: black;
+}
+
+.carruselbanqui{
+  width:50vw;
+  margin:auto;
+  overflow: hidden;
+
+}
+.carruselbanqui ul{
+  display: flex;
+  padding: 0;
+  width: 300vw;
+
+  animation: cambio 80s infinite alternate;
+}
+
+.carruselbanqui li{
+  width: 100%;
+  list-style: none;
+}
+
+.carruselbanqui img{
+  width: 100%
+}
+wireframe cambio {
+  0% {margin-left: 0;}
+  16%{margin-left: 0;}
+
+  17%{margin-left: -100%;}
+  33%{margin-left: -100%;}
+
+  34%{margin-left: -200%;}
+  49%{margin-left: -200%;}
+
+  50%{margin-left: -300%;}
+  66%{margin-left: -300%;}
+
+  67%{margin-left: -400%;}
+  82%{margin-left: -400%;}
+
+  83%{margin-left: -500%;}
+  100%{margin-left: -500%;}
+}
