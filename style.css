@@ -4,9 +4,10 @@ html{
   background-image: url(https://i.ibb.co/89QhhLz/fondopixel.jpg);
   background-size: 100vw;
   background-repeat: repeat-y;
-  margin-top: auto;
+  margin-top: -.5vw;
   margin-left: -.2vw;;
   margin-right: auto;
+
 }
 
 
@@ -16,6 +17,8 @@ html{
   background-color: black;
 }
 .navegador{
+  width: 100%;
+  height: 15vw;
   margin-top: -8vw;
   margin-left: 16vw;
   width: 100%;
@@ -23,11 +26,14 @@ html{
   color: white;
 }
 .navegadorsm{
+  width: 25vw;
+  height: 10vw;
   padding: 4vw;
   font-family: "impact" ;
   font-size: 2vw;
   color: white;
   text-decoration: none;
+  position: relative;
 }
 
 .navegadorp{
@@ -36,6 +42,7 @@ html{
   font-size: 2vw;
   color: white;
   text-decoration: none;
+  position: relative;
 }
 
 .navegadorS{
@@ -45,6 +52,7 @@ html{
   font-size: 2vw;
   color: white;
   text-decoration: none;
+  position: relative;
 }
 
 .navegadorC{
@@ -53,11 +61,12 @@ html{
   font-size: 2vw;
   color: white;
   text-decoration: none;
+  position: relative;
 }
 
 .milogoportada{
   margin-top: auto;
-  margin-left: 42vw;
+  margin-left: 43vw;
   width: 15vw;
 }
 
@@ -75,67 +84,136 @@ html{
 .miicono{
   width:45vw;;
   margin-top: -22vw;
-  margin-left: 24vw;
+  margin-left: 27vw;
 }
 
 .triangulo{
-  margin-top: -63.2vw;
+  margin-top: -61.5vw;
   width: 97.5vw;
 }
 
 
 .sobremi{
-  margin-top: 27vw;
+  padding-top: 2vw;
+  margin-top: 25vw;
   width: 100%;
   height: 22vw;
   background-color: white;
 }
- .mi{
-   margin-left: 25vw;
-   margin-top: 0vw;
-   width: 65vw;
- }
-
-.trianguloreves{
-  margin-top: -85vw;
-  width: 100%;
-}
-
-.misproyectos{
-  margin-top: -1vw;
+.sobmi{
+  margin-top: 2vw;
+  margin-left: 55vw;
   padding-top: 5vw;
   font-family: "impact" ;
   font-size: 4vw;
-  color: black;
-  text-align: center;
 }
-
-#proyectos{
+ .mi{
+   margin-left: 10vw;
+   margin-top: -7vw;
+   width: 34vw;
+ }
+ .demi{
+   width: 50vw;
+   margin-left: 38vw;
+   margin-top: -16vw;
+   font-family: "arial";
+   font-size: 1.6vW;
+   text-align: center;
+ }
+.misob{
+  width: 32vw;
+  margin-top: 0vw;
+  margin-left: 60vw;
+}
+.trianguloreves{
+  margin-top: -94vw;
+  width: 100%;
+}
+.proyectos{
+  width: 100vw;
+  margin-top: 28vw;
+}
+.misproyectos{
   margin-top: -1vw;
+  margin-left: 36vw;
+  padding-top: 5vw;
+  font-family: "impact" ;
+  font-size: 4vw;
 }
-#button-banqui{
-  margin-left: 3.5vw;
-  width: 30vw;}
-
-  #button-banqui: hover{
-    width: 35vw;
-
+.boton-proyectos{
+  width: 100vw;
+  height: 100vw;
 }
 
-#button-betabel{
-  width: 30vw;
+.boton-banqui{
+  width: 28vw;
+  margin-left: 12vw;
+  margin-top: 2vw;
+    position: relative;
 }
-#button-midoc{
-  width: 30vw;
+.boton-betabel{
+  width: 28vw;
+  margin-left: -5vw;
+    position: relative;
+}
+.boton-midoc{
+  width: 28vw;
+  margin-left: 59vw;
+  margin-top: -32.5vw;
+  position: relative;
+  top: -55px;
+}
+
+
+.banquip{
+  width: 15vw;
+  height: 8vw;
+  padding: 2vw;
+  margin-top: -29vw;
+  margin-left: 2.5vw;
+  font-family: "impact";
+  font-size: 1.6vW;
+  text-align: center;
+  background-color: white;
+}
+.grandebanqui{
+  font-size: 3vw;
+}
+.betabelp{
+  width: 21vw;
+  height: 12vw;
+  padding-top: 47vw;
+  margin-left: 39vw;
+  margin-top: -40vw;
+  font-family: "impact";
+  font-size: 1.6vW;
+  text-align: center;
+  background-color: white;
+}
+.grandebetabel{
+  font-size: 3vw;
+}
+.midocp{
+  width: 18vw;
+  height: 10vw;
+  margin-top: -35vw;
+  margin-left: 80vw;
+  font-family: "impact";
+  font-size: 1.6vW;
+  text-align: center;
+  background-color: white;
+}
+.grandemidoc{
+  font-size: 3vw;
 }
 
 .triangulop{
-  margin-top: -59vw;
+  margin-top: -39vw;
   width: 100%;
 }
 
 .habilidades{
-  margin-top: -10vw;
+  margin-top: -30vw;
   width: 100%;
   height:37vw;
   background-color: white;
@@ -230,8 +308,9 @@ html{
   text-align: center;
 }
 .triancontablan{
-  margin-top: 10vw;
+  margin-top: 12vw;
   width: 110vw;
+  height: auto;
 }
 .trianconta{
   margin-top: -70vw;
@@ -239,10 +318,11 @@ html{
   width: 147vw;
 }
 .contacto{
+  margin-top: -1vw;
   padding-top: 2vw;
   background-color: white;
   width: 100%;
-  height: 28vw;
+  height: 29vw;
   margin-top: -18vw;
 }
 .titcontacto{
@@ -1076,4 +1156,72 @@ html{
   margin-left: 10vw;
   font-family: "arial" ;
   font-size: 1.5vw;
+}
+.navegadorfin{
+  width: 80vw;
+  height: 15vw;
+  margin-top: -7vw;
+  margin-left: 20vw;
+  width: 100%;
+  height: 5vw;
+  color: white;
+  position: relative;
+}
+.navegadorsmf{
+  width: 25vw;
+  height: 10vw;
+  padding: 3vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+.inicio-banquif{
+  width: 25vw;
+  height: 10vw;
+  padding: 1vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+
+.navegadorpf{
+  margin-top: -1vw;
+  padding: 1vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+
+.navegadorSf{
+  margin-left: 4vw;
+  padding: 0vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+
+.navegadorCf{
+  padding: 4vw;
+  font-family: "impact" ;
+  font-size: 2vw;
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+.milogoportadafin{
+  width: 40vw;
+  margin-top: -25vw;
+  margin-left: 33vw;
+}
+.triangulorevesfin{
+  height: 120vw;
+  margin-top: -115vw;
 }
